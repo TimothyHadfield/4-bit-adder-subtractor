@@ -44,12 +44,14 @@ Each circuit was simulated with several different switch settings:
 | ![Breadboard with outputs lit](docs/photos/breadboard-8480.jpg) | ![Breadboard with a different output](docs/photos/breadboard-8481.jpg) |
 
 <details>
-<summary>More test photos</summary>
+<summary>More test photos and close-ups</summary>
 
 | | | |
 |---|---|---|
 | ![](docs/photos/breadboard-8464.jpg) | ![](docs/photos/breadboard-8467.jpg) | ![](docs/photos/breadboard-8476.jpg) |
-| ![](docs/photos/breadboard-8478.jpg) | ![](docs/photos/breadboard-8479.jpg) | |
+| ![](docs/photos/breadboard-8478.jpg) | ![](docs/photos/breadboard-8479.jpg) | ![Output LEDs close-up](docs/photos/breadboard-8469.jpg) |
+| ![Chip close-up](docs/photos/breadboard-8470.jpg) | ![DIP switch for the A and B inputs](docs/photos/breadboard-8471.jpg) | ![Second chip close-up](docs/photos/breadboard-8472.jpg) |
+| ![Resistors and power connections](docs/photos/breadboard-8473.jpg) | ![Output LEDs lit](docs/photos/breadboard-8475.jpg) | |
 
 </details>
 
