@@ -2,7 +2,7 @@
 
 A 4-bit adder and a 4-bit **two's-complement subtractor**, each designed and simulated in NI Multisim and then built and tested on a breadboard with TTL logic chips. Lab 2 of ECE 2705 (Digital Design I Lab) at Utah Valley University, Fall 2026.
 
-![The finished circuit on the breadboard, with the output LEDs lit](docs/photos/breadboard-8477.jpg)
+![The finished circuit on the breadboard, with the output LEDs lit](docs/photos/hero.jpg)
 
 ## How it works
 
